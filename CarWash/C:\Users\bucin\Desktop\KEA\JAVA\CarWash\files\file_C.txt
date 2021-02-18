@@ -1,0 +1,5 @@
+Name of the customer 	 card_ID
+Adam K 	 	 	 	 	 	 1
+Jozko B 	 	 	 	 	 	 2
+Gerta R 	 	 	 	 	 	 3
+Bonifác P 	 	 	 	 	 	 4
